@@ -9,7 +9,7 @@ const root = document.getElementById('app');
 ReactDom.render(div,root)
 ```
 
-##FunctionComponent
+## FunctionComponent
 
 ```js
 import React from 'react'
@@ -23,7 +23,7 @@ function View () {
 }
 ```
 
-##PureComponent
+## PureComponent
 
 ```js
 import React from 'react'
@@ -37,7 +37,7 @@ export default class PureComponentCustom extends React.PureComponent {
 } 
 ```
 
-##Component
+## Component
 
 ```js
 import React from 'react'
